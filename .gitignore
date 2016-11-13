@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# fnlp models
+*.m
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/

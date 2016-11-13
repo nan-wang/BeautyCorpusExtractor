@@ -13,7 +13,7 @@ public class App {
         factory.loadDict("models/beautywords/beauty_dict.txt",
                 "models/beautywords/brand_dict.txt");
 
-        String query = "我今天用nuke粉饼和兰蔻眼影上妆。";
+        String query = "深秋了涂点红豆沙色暖暖手，色号48 \uD83C\uDFFB 随便凑单买的悦诗风吟这个指甲油持久度出乎我意料的好诶，图上是涂后第五天了。";
 
         System.out.printf("query: %s\n", query);
         long startTime = System.nanoTime();
